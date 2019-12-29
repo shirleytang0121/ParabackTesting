@@ -1,0 +1,2 @@
+# Parashop Backend
+[![Build Status](https://travis-ci.com/nchen000/parashop_backend.svg?branch=master)](https://travis-ci.com/nchen000/parashop_backend) [![Coverage Status](https://coveralls.io/repos/github/nchen000/parashop_backend/badge.svg?branch=master)](https://coveralls.io/github/nchen000/parashop_backend?branch=master)
